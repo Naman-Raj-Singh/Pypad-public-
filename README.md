@@ -1,5 +1,4 @@
- THIS PYTHON PROJECT IS CREATED BY NAMAN RAJ SINGH.
- DID YOU LIKE IT?
+
  
  PLEASE INSTALL FOLLOWING MODULE
  | 1. docx2txt by "pip install docx2txt"
@@ -8,5 +7,4 @@
  
  
  
- HAVE A GOOD DAY 
  
